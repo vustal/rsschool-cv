@@ -1,22 +1,22 @@
-##Vitalina Ustalkova
-
+## Vitalina Ustalkova
 **Junior Frontend Developer**
+### Contact information:
 
-###Contact information:
-**Phone:** +79043992883
-**E-mail:** vita.ustalkova@bk.ru
-**Telegram:** @ustalkovaV
+- **Phone:** +79043992883
+- **E-mail:** vita.ustalkova@bk.ru
+- **Telegram:** @ustalkovaV
 
-###Briefly About Myself:
+### Briefly About Myself:
 
-###Skills and Proficiency:
-*HTML5, CSS3
-*JavaScript Basics
-*Git, GitHub
-*VS Code
-*Adobe Photoshop, Illustrator
+### Skills and Proficiency:
 
-###Code example:
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+* Adobe Photoshop, Illustrator
+
+### Code example:
 Homogenous arrays KATA from **CODEWARS**:
 Given a two-dimensional array, return a new array which carries over only those arrays from the original, which were not empty and whose items are all of the same type (i.e. homogenous). For simplicity, the arrays inside the array will only contain characters and integers.
 
@@ -36,9 +36,9 @@ function filterHomogenous(arrays) {
 }
 ```
 
-###Courses:
+### Courses:
 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-###Languages:
-**English** - Pre-Intermediate (according to the online test at [Lingualeo](https://lingualeo.com/ru/quiz/welcome)) 
-**Russian** - Native
+### Languages:
+- **English** - Pre-Intermediate (according to the online test at [Lingualeo](https://lingualeo.com/ru/quiz/welcome)) 
+- **Russian** - Native

@@ -7,6 +7,14 @@
 - **Telegram:** @ustalkovaV
 
 ### Briefly About Myself:
+Personal qualities:
+- **sociability**
+- **perseverance**
+- **creativity** 
+- **a desire to learn new things**
+
+I had no experience as a programmer.
+But I am sure that *my best qualities will help me to master a new profession*.
 
 ### Skills and Proficiency:
 

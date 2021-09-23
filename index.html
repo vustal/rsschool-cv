@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV Ustalova Vitalina</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+    integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+  <div class="contaner">
+    <div class="left-side">
+      <div class="profile-text">
+        <div class="img-bx">
+          <img src="IMG_8319.jpg" alt="">
+        </div>
+        <h2 class="name">Vitalina Ustalkova</h2>
+        <h2><span>Junior Frontend Developer</span></h2>
+      </div>
+
+      <div class="contact-info">
+        <h3 class="title">Contact information</h3>
+        <ul>
+          <li><span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
+            <span class="text">+7 904 399 2883</span>
+          </li>
+
+          <li><span class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
+            <span class="text">vita.ustalkova@bk.ru</span>
+          </li>
+
+          <li><span class="icon"><i class="fa fa-telegram" aria-hidden="true"></i></span>
+            <span class="text">@ustalkovaV</span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="language">
+        <h3 class="title">Languages</h3>
+        <ul>
+          <li><span class="text">English</span>
+            <span class="percent">
+              <div style="width: 30%;"></div>
+            </span>
+          </li>
+          <li><span class="text">Russian</span>
+            <span class="percent">
+              <div style="width: 100%;"></div>
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="right-side">
+      <div class="about">
+        <h2 class="about-title">About Myself:</h2>
+        <p><b>Personal qualities:</b>
+        <ul>
+          <li><span class="text">sociability</span></li>
+          <li><span class="text">perseverance</span></li>
+          <li><span class="text">creativity</span></li>
+          <li><span class="text">a desire to learn new things</span></li>
+        </ul>
+        I had no experience as a programmer.
+        But I am sure that my best qualities will help me to master a new profession.
+        </p>
+      </div>
+
+      <div class="about">
+        <h2 class="about-title">Skills and Proficiency:</h2>
+        <p>
+        <ul>
+          <li><span class="text">HTML5, CSS3</span></li>
+          <li><span class="text">JavaScript Basics</span></li>
+          <li><span class="text">Git, GitHub</span></li>
+          <li><span class="text">VS Code</span></li>
+          <li><span class="text">Adobe Photoshop, Illustrator</span></li>
+        </ul>
+        </p>
+      </div>
+
+      <div class="about">
+        <h2 class="about-title">Code example:</h2>
+        <p>
+          <b>Homogenous arrays KATA from CODEWARS:</b>
+          <br>
+          <br>
+          Given a two-dimensional array, return a new array which carries over only those arrays from the original,
+          which were not empty and whose items are all of the same type (i.e. homogenous). For simplicity, the arrays
+          inside the array will only contain characters and integers.
+        </p>
+        <pre>
+            function filterHomogenous(arrays) {
+            let res;
+            const isHomogenous = (array) => {
+              for (let i = 0; i < array.length; i++) {
+                if (typeof (array[0]) === typeof (array[i])) {
+                  res = true;
+                } else return false;
+              } return res;
+            }
+            let result = arrays.filter((el) => { return isHomogenous(el) })
+          
+            let homogenous = result.filter((el) => el.length > 0)
+            return homogenous;
+            }
+        </pre>
+      </div>
+
+      <div class="about">
+        <h2 class="about-title">Courses</h2>
+        <p>
+          RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -88,17 +88,18 @@
       <div class="about">
         <h2 class="about-title">Code example:</h2>
         <p>
-          Homogenous arrays KATA from CODEWARS:
+          <b>Homogenous arrays KATA from CODEWARS:</b>
+          <br>
           <br>
           Given a two-dimensional array, return a new array which carries over only those arrays from the original,
           which were not empty and whose items are all of the same type (i.e. homogenous). For simplicity, the arrays
           inside the array will only contain characters and integers.
         </p>
-        <div class="code">
-          function filterHomogenous(arrays) {
+        <pre>
+            function filterHomogenous(arrays) {
             let res;
             const isHomogenous = (array) => {
-              for (let i = 0; i < array.length; i++) {
+              for (let i = 0; i < pre array.length; i++) {
                 if (typeof (array[0]) === typeof (array[i])) {
                   res = true;
                 } else return false;
@@ -108,8 +109,8 @@
           
             let homogenous = result.filter((el) => el.length > 0)
             return homogenous;
-          }
-        </div>
+            }
+        </pre>
       </div>
 
       <div class="about">

@@ -1,12 +1,31 @@
 # Ustalkova Vitalina
-### email: vita.ustalkova@bk.ru
-### discord: @ta_lina
-### Люблю интересные истории. Я стремлюсь изучить новый и восстребованный навык программирования на JS и стать хорошим специалистом, работать над интересными проетами с не менее интересными и вдохновляющими людьми. Мои сильные стороны - креативноость, импровизация и soft skills. 
-### My skills: Lerning JS, using Git and VS Code.
+### Junior Frontend Developer
+
+### Contact information: 
+**email:** vita.ustalkova@bk.ru
+
+**discord:** @ta_lina
+
+### Briefly About Myself:
+I am eager to learn new and in-demand programming skills in JavaScript and become a skilled professional, working on exciting projects with equally inspiring and motivated people. My strengths are creativity, improvisation, and strong soft skills. Also I love interesting stories. 
+### Skills and Proficiency:
+* JavaScript Basics
+* Git, GitHub
+* VS Code
 ### Code Examples
+```
 function multiply(a, b){
   return a * b;
 }
+```
+### Education & Training:
+* Nizhny Novgorod State Technical University
 
-### Education: Three complite years in нгту по спеуиальности Информационные системы и технологии. Изучаю JS на курсе JS-frontend developer from RS School.
-### English Level:
+  *Bachelor studies (3 years) - Major in Information Systems and Technologies*
+* RS School - JS / Front-end Course (Stage 1)
+
+  *In progress*
+### Languages: 
+* Russian - Native
+* English - Intermediate (according to the online test at www.egset.org)
+![](1.png)
